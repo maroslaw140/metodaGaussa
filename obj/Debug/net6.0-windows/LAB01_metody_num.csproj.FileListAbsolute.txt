@@ -1,0 +1,85 @@
+D:\LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.exe
+D:\LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.deps.json
+D:\LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.runtimeconfig.json
+D:\LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.dll
+D:\LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.pdb
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.AssemblyReference.cache
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.Form1.resources
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.GenerateResource.cache
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.AssemblyInfoInputs.cache
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.AssemblyInfo.cs
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.CoreCompileInputs.cache
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.dll
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\refint\LAB01_metody_num.dll
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.pdb
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.genruntimeconfig.cache
+D:\LAB01_metody_num\obj\Debug\net6.0-windows\ref\LAB01_metody_num.dll
+D:\v1_LAB01_metody_num — kopia\bin\Debug\net6.0-windows\LAB01_metody_num.exe
+D:\v1_LAB01_metody_num — kopia\bin\Debug\net6.0-windows\LAB01_metody_num.deps.json
+D:\v1_LAB01_metody_num — kopia\bin\Debug\net6.0-windows\LAB01_metody_num.runtimeconfig.json
+D:\v1_LAB01_metody_num — kopia\bin\Debug\net6.0-windows\LAB01_metody_num.dll
+D:\v1_LAB01_metody_num — kopia\bin\Debug\net6.0-windows\LAB01_metody_num.pdb
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.AssemblyReference.cache
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.Form1.resources
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.GenerateResource.cache
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.GeneratedMSBuildEditorConfig.editorconfig
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.AssemblyInfoInputs.cache
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.AssemblyInfo.cs
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.CoreCompileInputs.cache
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.dll
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\refint\LAB01_metody_num.dll
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.pdb
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.genruntimeconfig.cache
+D:\v1_LAB01_metody_num — kopia\obj\Debug\net6.0-windows\ref\LAB01_metody_num.dll
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.AssemblyReference.cache
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.Form1.resources
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.GenerateResource.cache
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.GeneratedMSBuildEditorConfig.editorconfig
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.AssemblyInfoInputs.cache
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.AssemblyInfo.cs
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.CoreCompileInputs.cache
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.dll
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\refint\LAB01_metody_num.dll
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.pdb
+D:\v2_LAB01_metody_num — kopia — kopia\bin\Debug\net6.0-windows\LAB01_metody_num.exe
+D:\v2_LAB01_metody_num — kopia — kopia\bin\Debug\net6.0-windows\LAB01_metody_num.deps.json
+D:\v2_LAB01_metody_num — kopia — kopia\bin\Debug\net6.0-windows\LAB01_metody_num.runtimeconfig.json
+D:\v2_LAB01_metody_num — kopia — kopia\bin\Debug\net6.0-windows\LAB01_metody_num.dll
+D:\v2_LAB01_metody_num — kopia — kopia\bin\Debug\net6.0-windows\LAB01_metody_num.pdb
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\LAB01_metody_num.genruntimeconfig.cache
+D:\v2_LAB01_metody_num — kopia — kopia\obj\Debug\net6.0-windows\ref\LAB01_metody_num.dll
+D:\v3_LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.exe
+D:\v3_LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.deps.json
+D:\v3_LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.runtimeconfig.json
+D:\v3_LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.dll
+D:\v3_LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.pdb
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.AssemblyReference.cache
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.Form1.resources
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.GenerateResource.cache
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.GeneratedMSBuildEditorConfig.editorconfig
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.AssemblyInfoInputs.cache
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.AssemblyInfo.cs
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.CoreCompileInputs.cache
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.dll
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\refint\LAB01_metody_num.dll
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.pdb
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.genruntimeconfig.cache
+D:\v3_LAB01_metody_num\obj\Debug\net6.0-windows\ref\LAB01_metody_num.dll
+D:\v5_LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.exe
+D:\v5_LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.deps.json
+D:\v5_LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.runtimeconfig.json
+D:\v5_LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.dll
+D:\v5_LAB01_metody_num\bin\Debug\net6.0-windows\LAB01_metody_num.pdb
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.AssemblyReference.cache
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.Form1.resources
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.GenerateResource.cache
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.GeneratedMSBuildEditorConfig.editorconfig
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.AssemblyInfoInputs.cache
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.AssemblyInfo.cs
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.csproj.CoreCompileInputs.cache
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.dll
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\refint\LAB01_metody_num.dll
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.pdb
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\LAB01_metody_num.genruntimeconfig.cache
+D:\v5_LAB01_metody_num\obj\Debug\net6.0-windows\ref\LAB01_metody_num.dll
